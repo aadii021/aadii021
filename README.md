@@ -5,15 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/adiij/">
-    <img src="https://img.shields.io/badge/LeetCode-adiij-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:adityajha9313@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-jha2103/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ <p align="center">
+  <a href="https://leetcode.com/u/adiij/">🔶 LeetCode — adiij</a> &nbsp;|&nbsp;
+  <a href="mailto:adityajha9313@gmail.com">📧 Gmail</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/aditya-jha2103/">💼 LinkedIn</a>
+</p>
 </p>
 
 ---
