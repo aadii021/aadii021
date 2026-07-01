@@ -6,7 +6,7 @@
 
 <p align="center">
  <p align="center">
-  <a href="https://leetcode.com/u/adiij/">🔶 LeetCode — adiij</a> &nbsp;|&nbsp;
+ 
   <a href="mailto:adityajha9313@gmail.com">📧 Gmail</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/aditya-jha2103/">💼 LinkedIn</a>
 </p>
