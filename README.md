@@ -91,7 +91,7 @@ const aditya = {
 | 🏅 Achievement | 📌 Detail |
 |---------------|-----------|
 | 🥇 MAIT Hackathon | Finalist among top teams |
-| 💻 LeetCode | Active problem solver — [adiij](https://leetcode.com/u/adiij/) |
+
 
 ---
 
